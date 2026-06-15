@@ -1,5 +1,6 @@
 # Python bytecode / packaging
 __pycache__/
+.pycache_codex/
 *.py[cod]
 *$py.class
 build/
@@ -29,6 +30,7 @@ env/
 venv/
 ENV/
 Scripts/
+.conda-build/
 
 # IDE
 .idea/
